@@ -1,1 +1,2 @@
 # Doom-Nukem
+We will ask you to create a mix of Doom and Duke Nukem 3D. Many basic functional elements are identical. However, they were not implemented in the same way by the designers of the two games. It’s up to you to find the on that you prefer and that will make it possible to implement both the requested features and the ones you can’t wait to invent. You’ll still be using the raycasting technique, but you will need a lot more work than for your Wolf3D. The bonus part then is now a core element of the project.
